@@ -1,2 +1,3 @@
-# airline_predict
-script to help predict wheather or not flights will be delayed coming out of IAH
+Flight Delay Prediction
+
+Using historical Bureau of Transportation On-Time Performances predict whether flights departing fromGeorge Bush Intercontinental Airport will be delayed and by how much time.
